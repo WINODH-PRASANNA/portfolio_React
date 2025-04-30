@@ -75,4 +75,4 @@ Feel free to reach out via the contact form on the site or through my social lin
 
 ---
 
-> Designed and developed by [Your Name]
+> Designed and developed by [Winodh Prasanna]
