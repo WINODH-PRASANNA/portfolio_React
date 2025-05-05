@@ -41,8 +41,6 @@ This is a personal portfolio website built using **React**, **CSS**, and **JavaS
 └── README.md
 ```
 
-## 📷 Preview
-
 ## 📦 Installation
 
 1. Clone the repository:
