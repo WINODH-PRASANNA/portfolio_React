@@ -1,8 +1,6 @@
 
 # 🚀 Developer Portfolio Website
 
-![Simple Portfolio Home Page](https://i.imgur.com/P1ZV8Qs.png)
-
 This is a personal portfolio website built using **React**, **CSS**, and **JavaScript**, designed to showcase my skills, projects, and contact information in a clean and responsive layout. The site includes a **dark/light theme toggle** and essential sections such as Home, About, Projects, and Contact.
 
 ## 🚀 Features
